@@ -1,0 +1,67 @@
+genre(Action, adventure, RPG, Strategy, fantasy, war, sports, simulation)
+console( gamecube, ps2, ps3, xbox 360, 3ds, wii, ps4, xb1
+value most in gaming(exploration, combat, collect, socializing, speed, musicm puzzle, story)
+single or mulitplayer(single, mulitplayer)
+difficulty(easy, medium, hard, very hard)
+what settings do you like(scifi, cartoon,history,battlefield,fantasy,post apocalypse, super hero)
+graphics important(yes, no)
+are review scores important(yes, no)
+
+
+
+
+
+Game:(Call Of Duty) Keywords:(rpg, ps2, exploration, single, easy, )
+
+
+
+Pl@ystation and Xb0x
+Game:(fifa, nhl, madden) System:(Xbox, Playstation) Rating:(M)
+Game:(Fifa) System (Xbox, Playstation, Wii) Rating:(E)
+Game:(Destiny 2) System:(Xbox, Playstation) 
+Game:(Star Wars Battlefront) System:(Xbox, Playstation) Rating:(M)
+Game:(Fallout 4) System:(Xbox, Playstation) Rating:(M)
+Game:(Grand Theft Auto 5) System:(Xbox, Playstation) Rating:(M)
+Game:(Assassin's Creed) System:(Xbox, Playstation) Rating:(M)
+Game:(Madden 18) System:(Xbox, Playstation) Rating:(E)
+game:(Fortnite) System:(Xbox, Playstation) Rating:(T)
+
+Xb0x games:
+Game:(Forza Motorsports 7) System:(Xbox) Rating:(E)
+Game:(Gears of War 4) System:(Xbox) Rating:(E)
+Game:(Halo: The Master Chief Collection) System: (xbox one) Rating:(M)
+Game:(Halo 5) System(Xbox) Rating(M)
+
+Nsixty4 games:
+Game:(Super Mario 64) System:(Nintendo 64) Rating:(E)(Keyword: Bowser)
+Game:(007: The World Is Not Enough) System:(Nintendo 64) Rating:(T)
+Game:(1080 Snowboarding) System:(Nintendo 64) Rating:(E)
+Game:(Banjo-Kazooie) System:(Nintendo 64) Rating:(E)
+Game:(Doom) System:(Nintendo 64) Rating(M)
+Game:(Kirby 64: The Crystal Shards) System:(Nintendo 64) Rating:(E)
+Game:(The Legend Of Zelda: Majora's Mask) System:(Nintendo 64) Rating:(E)
+Game:(The Legend Of Zelda: Ocarina of Time) System:( Nintendo 64) Rating:(E)
+Game:(Mario Golf) System:(Nintendo 64) Rating:(E)
+Game:(Mario Party) System:(Nintendo 64) Rating:(E)
+Game:(Mario Tennis) System:(Nintendo 64) Rating:(E)
+Game:(Mega Man 64) System:(Nintendo 64) Rating:(E
+Game:(Monster Truck Madness 64) System:(Nintendo 64) Rating:(E)
+Game:(Mortal Kombat) System:(Nintendo 64) Rating:(M)
+Game:(NBA Jam) System:(Nintendo 64) Rating:(E)
+Game:(NFL Blitz) System:(Nintendo 64) Rating:(E)
+Game:(NHL) System:(Nintendo 64) Rating:(E)
+Game:(Paper Mario) System:(Nintendo 64) Rating:(E)
+Game:(Pokemon Stadium 64) System:(Nintendo 64) Rating:(E)
+Game:(Pokemon Snap) System:(Nintendo 64) Rating:(E)
+Game:(Resident Evil 2) System:(Nintendo 64) Rating:(M)
+Game:(South Park) System:(Nintendo 64) Rating:(M) 
+Game:(Spider-Man) System:(Nintendo 64) Rating:(E)
+Game:(Star Wars) System:(Nintendo 64) Rating:(T)
+Game:(Super Smash Bros) System:(Nintendo 64) Rating:(E)
+Game:() System:(Nintendo 64) Rating:()
+
+Playstation games:
+Game:(God of War) System:(Playstation 4) Rating:(M)
+
+Game:Pokemon red version
+
